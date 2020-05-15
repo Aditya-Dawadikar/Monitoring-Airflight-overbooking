@@ -1,8 +1,8 @@
 # Monitoring-Airflight-overbooking
 
 This project consist of 2 files which run independently.
-1.simulator.py
-2.metafile_ticket.py
+* 1.simulator.py
+* 2.metafile_ticket.py
 
 The aim of the project was to caluculate the optimum price of the ticket for airline companies so that they can overbook the seats and still earn maximum revenue from the flight.
 Simple Binomial Distribution helped solving the problem. 
